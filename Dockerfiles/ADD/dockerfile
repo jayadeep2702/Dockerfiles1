@@ -1,3 +1,2 @@
 FROM almalinux
 ADD https://github.com/jayadeep2702/learn-ansible/blob/main/01-print.yml /tmp
-ADD apache-tomcat-9.0.76-embed.tar.gz /tmp
